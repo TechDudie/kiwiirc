@@ -1,5 +1,5 @@
 {
-    "windowTitle": "Kiwi IRC - The web IRC client",
+    "windowTitle": "IXL",
     "startupScreen": "welcome",
     "kiwiServer": "https://localdev.clients.kiwiirc.com/webirc/kiwiirc/",
     "restricted": false,
@@ -16,8 +16,8 @@
         { "name": "Elite", "url": "static/themes/elite" }
     ],
     "startupOptions" : {
-        "channel": "#kiwiirc-default",
-        "nick": "kiwi-n?"
+        "channel": "#vf-technic",
+        "nick": "TechDude"
     },
     "embedly": {
         "key": ""
